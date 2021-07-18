@@ -7,11 +7,11 @@ class Solution:
         while low <= high :
             mid = int(((low + high) / 2))
             guess = nums [ mid ]
-            if guess == target :
+            if guess == target:
                 return nums [ mid ]
             elif guess > target :
                 high = mid - 1
-            else :
+            else:
                 low = mid + 1
         return None
 

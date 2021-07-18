@@ -16,5 +16,5 @@ def selectionSort(arr):
 
 if __name__ == '__main__':
 
-    nums = [ 7,  1 , 5 , 4 , 0 ]
+    nums = [7,  1 , 5 , 4 , 0 ]
     print(selectionSort(nums))

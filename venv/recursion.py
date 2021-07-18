@@ -15,7 +15,7 @@ def factorial(n):
     if n == 1:
         return 1
     else:
-        return n * factorial ( n - 1 )
+        return n * factorial ( n - 1)
 # грубое решение без рекурсии
 print(factorial(3))
 def brut_fact (n):

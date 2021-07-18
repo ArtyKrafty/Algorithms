@@ -9,7 +9,7 @@ class LinkedList :
     def __init__ (self) :
         self.headval = None
 # Чтение списка
-    def PrintList (self) :
+    def PrintList (self):
         printval = self.headval
         while printval is not None :
             print ( printval.dataval )
