@@ -14,3 +14,4 @@
 06. [Максимальное значение списка](https://github.com/ArtyKrafty/Algorithms/blob/main/venv/max_in_list.py)
 07. [Быстрая сортировка](https://github.com/ArtyKrafty/Algorithms/blob/main/venv/quick_sort.py)
 08. [Сумма значений списка](https://github.com/ArtyKrafty/Algorithms/blob/main/venv/recursive_sum.py)
+09. [Наибольший общий делитель](https://github.com/ArtyKrafty/Algorithms/blob/main/venv/NOD.py)
