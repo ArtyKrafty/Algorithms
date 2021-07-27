@@ -1,4 +1,5 @@
 class Solution:
+
     def binary_search (self, nums: list ,  target: int) -> int:
         nums = sorted(nums)
         guess = 0
