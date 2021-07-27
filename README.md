@@ -10,3 +10,7 @@
 02. [Рекурсия](https://github.com/ArtyKrafty/Algorithms/blob/main/venv/recursion.py)
 03. [Сортировка выбором](https://github.com/ArtyKrafty/Algorithms/blob/main/venv/sort_select.py)
 04. [Связанный список](https://github.com/ArtyKrafty/Algorithms/blob/main/venv/link_list.py)
+05. [Подсчет значений списка](https://github.com/ArtyKrafty/Algorithms/blob/main/venv/count_list.py)
+06. [Максимальное значение списка](https://github.com/ArtyKrafty/Algorithms/blob/main/venv/max_in_list.py)
+07. [Быстрая сортировка](https://github.com/ArtyKrafty/Algorithms/blob/main/venv/quick_sort.py)
+08. [Сумма значений списка](https://github.com/ArtyKrafty/Algorithms/blob/main/venv/recursive_sum.py)
