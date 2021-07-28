@@ -1,7 +1,7 @@
 from collections import deque
 
 def person_is_seller(name):
-    return[-1] == 'p'
+    return name[-1] == 'p'
 
 def search(name):
 
@@ -32,5 +32,5 @@ if __name__ == '__main__':
     graph['Curt'] = {}
 
 
-    print(search('ZZ_top'))
+    print(search('You'))
 
