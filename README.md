@@ -16,3 +16,4 @@
 08. [Сумма значений списка](https://github.com/ArtyKrafty/Algorithms/blob/main/venv/recursive_sum.py)
 09. [Наибольший общий делитель](https://github.com/ArtyKrafty/Algorithms/blob/main/venv/NOD.py)
 10. [Графы. Поиск в ширину](https://github.com/ArtyKrafty/Algorithms/blob/main/venv/graph.py)
+11. [Алгоритм Дейкстры](https://github.com/ArtyKrafty/Algorithms/blob/main/venv/algorithm_dijkstra.py)
