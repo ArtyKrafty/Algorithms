@@ -17,7 +17,7 @@
 09. [Наибольший общий делитель](https://github.com/ArtyKrafty/Algorithms/blob/main/venv/NOD.py)
 10. [Графы. Поиск в ширину](https://github.com/ArtyKrafty/Algorithms/blob/main/venv/graph.py)
 11. [Алгоритм Дейкстры](https://github.com/ArtyKrafty/Algorithms/blob/main/venv/algorithm_dijkstra.py)
-12. [Жадный алгоритм (поиск локального оптимума для глобального)](https://github.com/ArtyKrafty/Algorithms/blob/main/venv/greedy.py)
+12. [Жадный алгоритм (поиск локального оптимума для глобального)](https://github.com/ArtyKrafty/Algorithms/blob/main/venv/greedy.py). 
 
 
-00. [Submission CrossX Kaggle](https://github.com/ArtyKrafty/Algorithms/blob/main/venv/submission.py)
+Misc. [Submission CrossX Kaggle](https://github.com/ArtyKrafty/Algorithms/blob/main/venv/submission.py)
