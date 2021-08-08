@@ -18,3 +18,4 @@
 10. [Графы. Поиск в ширину](https://github.com/ArtyKrafty/Algorithms/blob/main/venv/graph.py)
 11. [Алгоритм Дейкстры](https://github.com/ArtyKrafty/Algorithms/blob/main/venv/algorithm_dijkstra.py)
 12. [Жадный алгоритм (поиск локального оптимума для глобального)](https://github.com/ArtyKrafty/Algorithms/blob/main/venv/greedy.py)
+13. [Submission CrossX Kaggle]
