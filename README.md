@@ -21,6 +21,4 @@
 13. [Задание 1В. Сложность, тестирование, особые случаи](https://github.com/ArtyKrafty/Algorithms/tree/main/venv/1B). Условия в [контесте](https://contest.yandex.ru/contest/28730/enter/)
 14. [Задание 2В. Линейный поиск](https://github.com/ArtyKrafty/Algorithms/tree/main/venv/2B). Условия в [контесте](https://contest.yandex.ru/contest/28738/enter/)
 15. [Задание 3В.Множества](https://github.com/ArtyKrafty/Algorithms/tree/main/venv/3B). Условия в [контесте](https://contest.yandex.ru/contest/28964/enter/)
-
-
-Misc. [Submission CrossX Kaggle](https://github.com/ArtyKrafty/Algorithms/blob/main/venv/submission.py)
+16. [Submission CrossX Kaggle](https://github.com/ArtyKrafty/Algorithms/blob/main/venv/submission.py)
